@@ -1,4 +1,8 @@
-# headless-gl Alpine Linux prebuilts
+# Deprecated repository
+
+Please update your reference to https://github.com/pantobot/headless-gl
+
+## headless-gl Alpine Linux prebuilts
 
 Reference source repo is [headless-gl][headless-gl-url]
 
